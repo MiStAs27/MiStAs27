@@ -10,11 +10,11 @@
 <br/>
 
 <!-- CONTACT BADGES -->
-<a href="mailto:tucorreo@ejemplo.com">
+<a href="mailto:herlan.santiago.mistas.huanca@gmail.com">
   <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/tuusuario">
+<a href="https://www.linkedin.com/in/herlan-santiago-mistas-huanca-a49a47334/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
@@ -27,7 +27,6 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MiStAs27&style=flat-square&color=00d4ff&label=Visitas+al+perfil)
 </div>
 
 ---
@@ -73,7 +72,7 @@ Soy **Herlan Mistas (@MiStAs27)** , estudiante de Ingeniería de Sistemas en Bol
 
 <div align="center">
 
-| 🔷 Proyecto | 📋 Descripción | 🛠️ Stack | 🔗 |
+| Proyecto | Descripción | Stack | 🔗 |
 |:------------|:---------------|:---------|:--:|
 | **Dentista2** | Sistema completo de gestión para consultorios dentales | TypeScript | [→](https://github.com/MiStAs27/Dentista2) |
 | **DentSync Mobile** | App móvil de sincronización clínica en tiempo real | C++ | [→](https://github.com/MiStAs27/dentsync_mobil) |
@@ -87,11 +86,6 @@ Soy **Herlan Mistas (@MiStAs27)** , estudiante de Ingeniería de Sistemas en Bol
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MiStAs27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00d4ff&icon_color=7b2fff&text_color=a0b4c8&bg_color=0d1117"/>
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/app/api/top-langs/?username=MiStAs27&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=a0b4c8&bg_color=0d1117"/>
-
-<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MiStAs27&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=7b2fff&currStreakLabel=00d4ff" height="160"/>
 
