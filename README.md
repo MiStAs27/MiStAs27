@@ -107,11 +107,11 @@ Soy **Herlan Mistas (@MiStAs27)** , estudiante de Ingeniería de Sistemas en Bol
 
 <br/>
 
-<a href="mailto:tucorreo@ejemplo.com">
+<a href="mailto:herlan.santiago.mistas.huanca.com">
   <img src="https://img.shields.io/badge/Escríbeme_por_Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/tuusuario">
+<a href="https://www.linkedin.com/in/herlan-santiago-mistas-huanca-a49a47334/">
   <img src="https://img.shields.io/badge/Conectar_en_LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
 </a>
 
